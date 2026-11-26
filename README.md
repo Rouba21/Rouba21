@@ -102,6 +102,13 @@ NVIDIA Deep Learning · NVIDIA Generative AI Explained · Microsoft Dynamics 365
 </details>
 
 <details>
+<summary><b>En dehors du code</b></summary>
+<br>
+
+Violon · Natation · Jogging · Lecture · Anime · Séries
+</details>
+
+<details>
 <summary><b>Langues</b></summary>
 <br>
 
@@ -119,5 +126,9 @@ Email : [roubasouidi.pro@gmail.com](mailto:roubasouidi.pro@gmail.com) · LinkedI
 ---
 
 <div align="center">
+
+*« The best way to predict the future is to invent it. »* — Alan Kay
+
 <a href="https://rouba21.github.io/?chat=1"><img src="./buttons/chat.svg" alt="Discuter avec Rouba"></a>
+<a href="https://rouba21.github.io/?lang=en&chat=1"><img src="./buttons/english.svg" alt="English version"></a>
 </div>
