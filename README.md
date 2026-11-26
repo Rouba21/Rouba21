@@ -45,9 +45,9 @@ Ingénieure diplômée en Intelligence Artificielle et Business Intelligence (ES
 | Année | Rôle |
 |---|---|
 | 2026 – | Développeuse IA — Boldys AI |
-| 2025 | Ingénieure logiciel, PO & QA — Advyteam Accretio & INRAE (Lyon) |
-| 2024 | Ingénieure ERP, intégration logicielle (projet WMS) — ISEP Paris & ESPRIT |
-| 2023 | Ingénieure Cloud ERP, administration système & data — Sekceram (Algérie) |
+| 2025 | Stagiaire ingénieure logiciel, PO & QA — Advyteam Accretio (Tunis, projet INRAE Lyon) |
+| 2024 | Stagiaire ERP, intégration logicielle (projet WMS) — ISEP Paris & ESPRIT |
+| 2023 | Stagiaire Cloud ERP, administration système & data — Sekceram (Algérie, été 2023) |
 </details>
 
 <details>
