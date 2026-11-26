@@ -31,8 +31,10 @@ Ingénieure diplômée en Intelligence Artificielle et Business Intelligence (ES
 **Développeuse IA chez Boldys AI** (2026 – aujourd'hui), conception de produit IA. Je construis WaaS, une plateforme SaaS d'automatisation conversationnelle sur WhatsApp Business :
 
 - moteur multi-agents LangGraph / LangChain avec GPT-4o, RAG et bases de connaissances par client
+- réservation de créneaux dans la conversation, intégration calendrier via MCP
 - 23 fonctionnalités en production : qualification de leads, relances automatisées, intervention humaine, alertes Slack
 - 32 tests automatisés (Django, Vitest), 100 % de couverture des règles métier critiques
+- échanges directs avec les clients : recueil des besoins, démos, traitement des retours
 - Django, Celery, Redis, PostgreSQL, Docker, Coolify
 </details>
 
@@ -52,8 +54,8 @@ Ingénieure diplômée en Intelligence Artificielle et Business Intelligence (ES
 <summary><b>Projets</b></summary>
 <br>
 
-- **[Baebles](https://baebles.com)** — marketplace événementielle reliant organisateurs d'événements et prestataires créatifs
-- **[Banti](https://banti.app)** — gestion financière personnelle pour les marchés africains, avec suivi budgétaire
+- **[Baebles](https://baebles.com)** — application communautaire gratuite pour les lecteurs de fantasy : salons par sous-genre, recommandations, suivi des sorties (iOS & Android)
+- **[Banti](https://banti.app)** — mise en relation entre fondateurs, experts et investisseurs, avec matching intelligent
 - Étude NLP / RAG de l'impact de l'IA sur le marché de l'emploi
 - Classification d'œuvres d'art par CNN (WikiArt)
 - Smart Healthcare Predictor — Angular, Flask, Power BI
