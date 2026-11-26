@@ -120,7 +120,7 @@ Arabe (maternelle) · Français (courant) · Anglais (courant) · Allemand (A2)
 <br>
 
 Je cherche un poste à temps plein d'ingénieure IA / Data, disponible immédiatement.
-Email : [roubasouidi.pro@gmail.com](mailto:roubasouidi.pro@gmail.com) · LinkedIn : [rouba-souidi](https://linkedin.com/in/rouba-souidi)
+Email : [roubasouidi.pro@gmail.com](mailto:roubasouidi.pro@gmail.com) · LinkedIn : [rouba-souidi-20062001rs](https://linkedin.com/in/rouba-souidi-20062001rs)
 </details>
 
 ---
