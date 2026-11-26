@@ -90,6 +90,8 @@ NVIDIA Deep Learning · NVIDIA Generative AI Explained · Microsoft Dynamics 365
 <summary><b>Vie associative & leadership</b></summary>
 <br>
 
+- **Advisor (actuellement)** — IEEE Women in Engineering Affinity Group, ESPRIT
+- Mentor (auparavant) — IEEE ESPRIT Student Branch
 - Vice-Présidente — IEEE ESPRIT Student Branch
 - Secrétaire Générale — IEEE Computer Society (chapitre ESPRIT)
 - Vice-Présidente — WIE ACT 3 Congress
