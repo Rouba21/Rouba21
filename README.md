@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://rouba21.github.io/?chat=1"><img src="./banner.svg" width="100%" alt="Rouba Souidi — Hello, welcome to my profile. Bienvenue !"></a>
+<a href="https://rouba21.github.io/?chat=1"><img src="./banner2.svg" width="100%" alt="Rouba Souidi — Hello, welcome to my profile. Bienvenue !"></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1400&color=B9B4D9&center=true&vCenter=true&width=700&lines=Hello,+welcome+to+my+profile.;Bienvenue,+vous+%C3%AAtes+le+bienvenu.;Je+construis+des+agents+IA+qui+parlent+aux+clients.;Disponible+pour+un+poste+%C3%A0+temps+plein." alt="">
 
@@ -21,18 +21,18 @@
 <summary><b>Qui est Rouba ?</b></summary>
 <br>
 
-Ingénieure diplômée en Intelligence Artificielle et Business Intelligence (ESPRIT, 2026). Je travaille sur tout le cycle d'un produit : conception, backend, frontend, mobile, déploiement et suivi client. J'ai livré en production des plateformes SaaS multi-tenant et des agents conversationnels IA pour de vrais clients.
+Ingénieure diplômée en Intelligence Artificielle et Business Intelligence (ESPRIT, 2026), avec une expérience confirmée en agents conversationnels IA (LangGraph, RAG, NLP), en pipelines de données et en plateformes SaaS multi-tenant déployées en production chez de vrais clients.
 </details>
 
 <details>
 <summary><b>Sur quoi je travaille en ce moment</b></summary>
 <br>
 
-**Développeuse IA chez Boldys AI** (2026 – aujourd'hui). Je construis WaaS, une plateforme SaaS d'automatisation conversationnelle sur WhatsApp Business :
+**Développeuse IA chez Boldys AI** (2026 – aujourd'hui), conception de produit IA. Je construis WaaS, une plateforme SaaS d'automatisation conversationnelle sur WhatsApp Business :
 
-- moteur multi-agents LangGraph / LangChain avec GPT-4o et RAG par client
-- prise de rendez-vous dans la conversation via MCP
-- 23 fonctionnalités en production, 32 tests automatisés
+- moteur multi-agents LangGraph / LangChain avec GPT-4o, RAG et bases de connaissances par client
+- 23 fonctionnalités en production : qualification de leads, relances automatisées, intervention humaine, alertes Slack
+- 32 tests automatisés (Django, Vitest), 100 % de couverture des règles métier critiques
 - Django, Celery, Redis, PostgreSQL, Docker, Coolify
 </details>
 
@@ -44,16 +44,16 @@ Ingénieure diplômée en Intelligence Artificielle et Business Intelligence (ES
 |---|---|
 | 2026 – | Développeuse IA — Boldys AI |
 | 2025 | Ingénieure logiciel, PO & QA — Advyteam Accretio & INRAE (Lyon) |
-| 2024 | Ingénieure ERP, projet WMS — ISEP Paris & ESPRIT |
-| 2023 | Ingénieure Cloud ERP — Sekceram (Algérie) |
+| 2024 | Ingénieure ERP, intégration logicielle (projet WMS) — ISEP Paris & ESPRIT |
+| 2023 | Ingénieure Cloud ERP, administration système & data — Sekceram (Algérie) |
 </details>
 
 <details>
 <summary><b>Projets</b></summary>
 <br>
 
-- **[Baebles](https://baebles.com)** — application communautaire pour les lecteurs de fantasy (Android & iOS)
-- **[Banti](https://banti.app)** — mise en relation entre fondateurs, freelances et investisseurs
+- **[Baebles](https://baebles.com)** — marketplace événementielle reliant organisateurs d'événements et prestataires créatifs
+- **[Banti](https://banti.app)** — gestion financière personnelle pour les marchés africains, avec suivi budgétaire
 - Étude NLP / RAG de l'impact de l'IA sur le marché de l'emploi
 - Classification d'œuvres d'art par CNN (WikiArt)
 - Smart Healthcare Predictor — Angular, Flask, Power BI
@@ -67,6 +67,37 @@ Ingénieure diplômée en Intelligence Artificielle et Business Intelligence (ES
 </details>
 
 <details>
+<summary><b>Formation</b></summary>
+<br>
+
+| Années | Établissement |
+|---|---|
+| 2023 – 2026 | ESPRIT — Diplôme National d'Ingénieur, Intelligence Artificielle & Business Intelligence |
+| 2020 – 2023 | FSM Monastir — Cycle préparatoire, Mathématiques-Physique |
+| 2019 – 2020 | Baccalauréat Sciences expérimentales — Lycée Route de la Plage, Soliman |
+</details>
+
+<details>
+<summary><b>Certifications</b></summary>
+<br>
+
+NVIDIA Deep Learning · NVIDIA Generative AI Explained · Microsoft Dynamics 365 Fundamentals · AWS Cloud Foundations · Hashgraph Developer · Mastering Maven
+</details>
+
+<details>
+<summary><b>Vie associative & leadership</b></summary>
+<br>
+
+- Vice-Présidente — IEEE ESPRIT Student Branch
+- Secrétaire Générale — IEEE Computer Society (chapitre ESPRIT)
+- Vice-Présidente — WIE ACT 3 Congress
+- Responsable Ressources Humaines — IEEE ESPRIT, TAPSES, clubs CTS
+- Coordinatrice logistique — Hult Prize ESPRIT
+- Participante — IEEE Region 8 SYP Congress, Grenoble
+- Membre active — Enactus ENIM, Spark Club BIAT, British Council Debate Club
+</details>
+
+<details>
 <summary><b>Langues</b></summary>
 <br>
 
@@ -77,7 +108,7 @@ Arabe (maternelle) · Français (courant) · Anglais (courant) · Allemand (A2)
 <summary><b>Disponibilité</b></summary>
 <br>
 
-Je cherche un poste à temps plein d'ingénieure logiciel / IA, disponible immédiatement.
+Je cherche un poste à temps plein d'ingénieure IA / Data, disponible immédiatement.
 Email : [roubasouidi.pro@gmail.com](mailto:roubasouidi.pro@gmail.com) · LinkedIn : [rouba-souidi](https://linkedin.com/in/rouba-souidi)
 </details>
 
