@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://rouba21.github.io/?chat=1"><img src="./hero.svg" width="100%" alt="Rouba Souidi — Hello, welcome to my profile. Bienvenue !"></a>
+<a href="https://rouba21.github.io/?chat=1"><img src="./banner.svg" width="100%" alt="Rouba Souidi — Hello, welcome to my profile. Bienvenue !"></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1400&color=B9B4D9&center=true&vCenter=true&width=700&lines=Hello,+welcome+to+my+profile.;Bienvenue,+vous+%C3%AAtes+le+bienvenu.;Je+construis+des+agents+IA+qui+parlent+aux+clients.;Disponible+pour+un+poste+%C3%A0+temps+plein." alt="">
 
