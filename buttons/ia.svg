@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="182" height="44" viewBox="0 0 182 44">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#ff6fb5"/><stop offset="1" stop-color="#7c6cff"/></linearGradient></defs>
+<style>.a{animation:n 1.8s ease-in-out infinite}@keyframes n{50%{transform:translateX(3px)}}</style>
+<rect x="1" y="1" width="180" height="42" rx="21.0" fill="#17133a" stroke="url(#g)" stroke-width="1.5"/>
+<text x="22" y="27.5" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f3f1ff">Compétences IA</text>
+<g class="a"><path d="M146 22h12m-5-5 5 5-5 5" stroke="#ff6fb5" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>
